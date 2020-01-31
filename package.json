@@ -1,0 +1,11 @@
+{
+  "name": "user-trip",
+  "version": "1.0.0",
+  "description": "A test project using sass, css, js, jquery, bootsrtap",
+  "main": "index.html",
+  "author": "Noura Abdel Hakam",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
